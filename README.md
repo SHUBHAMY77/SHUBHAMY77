@@ -2,7 +2,7 @@
 **_Note: GitHub will automatically render this special README.md on your profile page._**
 -->
 
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Shubham</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-ramesh-yajurvedi/">
@@ -15,11 +15,11 @@
 ### 💻 About Me
 I'm a senior data engineer with 3+ years of experience specializing in building and optimizing robust data pipelines and scalable data architectures. My passion lies in transforming raw data into actionable insights and high-quality data products for analytical and operational use cases. I have a proven track record of designing, developing, and maintaining end-to-end ETL/ELT processes in both on-premise and cloud environments.
 
-*   🔭 I currently work on designing a real-time data streaming platform using [Kafka/Spark Streaming].
-*   🌱 I'm currently expanding my knowledge in [e.g., serverless data processing with AWS Lambda, advanced data modeling techniques].
+*   🔭 I currently work on designing & Devloping Data Warehouse Snowflake,Bigquery.
+*   🌱 I'm currently expanding my knowledge in serverless data processing with AWS Lambda, advanced data modeling techniques.
 *   👯 I am looking to collaborate on open-source projects related to [e.g., data governance, data orchestration tools].
 *   💬 Ask me about: data warehousing, cloud data architecture, pipeline optimization, and data quality best practices.
-*   ⚡ Fun fact: When I'm not wrangling data, you can find me [e.g., hiking, gaming, cooking a new dish].
+*   ⚡ Fun fact: When I'm not wrangling data, you can find me gaming, cooking a new dish
 
 ---
 
@@ -58,21 +58,8 @@ My toolkit includes a wide range of technologies for the modern data stack:
 
 ---
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!--
-This section can be automated with GitHub Actions.
-Check out [this action](https://github.com/gautamkrishnar/blog-post-workflow) for more info.
--->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 🚀 Featured Projects
-*   **[Project Title 1]:** A brief and compelling description of your project. ([Repo Link]([Project 1 Repository URL]))
+*   **Web-log-pipelines:** Design a Data Pipeline to Process Logs from Web Servers. (https://github.com/SHUBHAMY77/web-log-pipelines)
 
----
 
-<div align="center">
-  <sub>Generated with ❤️ by [Your Name]</sub>
-</div>
