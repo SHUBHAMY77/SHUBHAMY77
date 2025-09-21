@@ -2,7 +2,7 @@
 **_Note: GitHub will automatically render this special README.md on your profile page._**
 -->
 
-<h1 align="center">Hi there 👋 I'm Shubham</h1>
+<h1 align="center">Hi there I'm Shubham</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-ramesh-yajurvedi/">
@@ -29,7 +29,7 @@ My toolkit includes a wide range of technologies for the modern data stack:
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 **Cloud & Infrastructure:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -49,15 +49,6 @@ My toolkit includes a wide range of technologies for the modern data stack:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=vue-dark&hide_border=true" alt="Your Top Languages" />
-</p>
-
----
-
 
 ### 🚀 Featured Projects
 *   **Web-log-pipelines:** Design a Data Pipeline to Process Logs from Web Servers. (https://github.com/SHUBHAMY77/web-log-pipelines)
